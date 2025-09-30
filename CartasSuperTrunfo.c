@@ -2,7 +2,8 @@
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das cartas das cidades
-// Objetivo: No nível novato deve ser criado cartas representando as cidades, utiliza-se scanf para entrada de dados e printf para exibir as informações.
+// Objetivo: No nível novato deve ser criado cartas representando as cidades, 
+// utiliza-se scanf para entrada de dados e printf para exibir as informações.
 
 int main() {
     // Área para definição das variáveis para armazenar as propriedades das cidades
